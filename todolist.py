@@ -15,8 +15,4 @@ def todolist():
                 print("saved succesfully")
                 break 
                 
-                
-                
-         
-
 todolist()
